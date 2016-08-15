@@ -3,7 +3,7 @@
 MKInnerShadow是用来添加视图内阴影的快捷工具
 
 ## 截图
-
+![Screenshop](https://github.com/SYFH/MKInnerShadow/blob/master/Screenshot.png)
 
 ## 使用
 
@@ -20,12 +20,12 @@ self.testInnerShadowView.innerShadowOpacity = 0;
 
 ## 安装
 
-## 使用Pod
+### 使用Pod
 ```
 pod 'MKInnerShadow'
 ```
 
-## 手动安装
+### 手动安装
 1. 执行`git clone https://github.com/SYFH/MKInnerShadow.git`命令下载工具与Demo
 2. 复制`MKInnerShadow`文件夹到项目中
 3. 之后引用`#import "UIView+InnerShadow.h"`
